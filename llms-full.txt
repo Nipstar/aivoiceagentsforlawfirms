@@ -1,0 +1,131 @@
+# AI Voice Agents for Law Firms
+
+## https://aivoiceagentsforlawfirms.co.uk/
+
+AI voice agents · UK law firms
+ AI voice agents for law firms, working the calls your team cannot 
+ Agents can be scoped to take overflow and evening calls, confirm appointments and chase outstanding documents. Fee earners get a summary, not an interruption.
+ Scope it with Andy Book a call 
+ £497 lowest setup fee 
+ £97 lowest monthly fee 
+ 4 task types you can scope 
+ Can be scoped
+ Overflow, evenings, confirmations, document chasers
+ Reaches your team as
+ A written summary of each call
+ Legal advice
+ Never given
+ Responsibility
+ Stays with the firm
+ Call
+ 0333 038 9960
+ Tell Andy where calls are lost
+ Andy replies within one working day.
+ Name 
+ Phone 
+ Email 
+ What do you need? An AI voice receptionist An AI website chatbot Both Not sure yet 
+ Website 
+ I agree to be contacted about my enquiry. Privacy policy 
+ Send my enquiry 
+ Built by Andy Norman
+ 30+ years in field service
+ ICO registered ZC133436
+ Certified Retell AI Partner
+ Based in Andover, Hampshire
+ Peak hours and evenings
+ Several phones ringing, one person to answer them 
+ 1 One call at a time
+ Your receptionist can handle one call at a time. Peak hours and evenings go to voicemail, and fee earners lose time chasing ID and signed forms.
+ 2 First to respond
+ Someone with a legal problem calls several firms. The first to respond is usually the firm that gets instructed, and chased paperwork delays the fee.
+ 3 What comes back to you
+ Overflow and evening calls answered and logged, with reminders and chasers added if you want them, on a schedule you set, and a written summary for each one.
+ Options, not promises
+ Tasks an agent can take on 
+ Each of these can be scoped for your firm. What an agent will actually do for you is confirmed and written down before anything goes live, so read this as a menu.
+ Overflow calls
+ Can be scoped to pick up when the main line is busy, take the caller's details and leave a written summary for the right person.
+ Out-of-hours calls
+ An agent could be scoped to answer in the evening or at weekends, say when the office reopens and log what the caller wanted.
+ Appointment confirmation
+ Where outbound calling suits the firm, this could be scoped to ring ahead on a schedule you set and note anyone needing to rearrange.
+ Document chasers
+ A chaser could be scoped to remind clients about outstanding ID or signed forms and record the reply. It would never discuss what a document means.
+ Fees
+ A published starting point, scoped around your firm 
+ Setup begins at £497, with monthly fees from £97. A firm wanting several tasks will pay more than one wanting overflow cover alone, and you see that figure in the written scope before committing.
+ Answers every call
+ AI voice receptionist
+ from £497 setup, from £97 a month 
+ Answers in your business name, day and night
+ Takes details and books or passes on
+ Call summaries sent to you
+ Set up and tuned by Andy
+ Scope it on a call AI website chatbot
+ from £297 setup, from £57 a month 
+ Answers questions on your website
+ Captures enquiries when you are busy
+ Trained on your own services and prices
+ Ask about the chatbot 
+ Hear one answer
+ Ring the line and judge it yourself 
+ This number is a demonstration only, and no firm is behind it. Please do not share real details of a legal matter when you ring.
+ Ring the demo line on 023 8256 0271 
+ How a build runs
+ Scoped first, scripted with the firm 
+ 01 Choose the tasks
+ Tell Andy where calls are being lost and which chasers eat the most time. Together you decide what an agent should take on, if anything.
+ 02 Approve the script
+ The firm reads and agrees every line, including how callers are told it is an AI and the point at which it must stop.
+ 03 Test and switch on
+ Your team rings it and tries to catch it out. Live calls only reach it once you are satisfied.
+ Google reviews of Antek Automation
+ Feedback from people who have hired Andy 
+ We worked with Andy Norman from Antek Automation to integrate Retell voice agents with Shopify via n8n. He quickly resolved webhook and API issues, delivered a stable end-to-end automation, and communicated clearly throughout. His hands-on, practical approach made a real difference. Highly recommended. Akhil M. · May 2026 Andy is very responsive, informed, and easy to work with! Adapts quickly and always willing to explain things further or revisit an idea. Excited to continue building out projects with his expertise! Tanna C. · Aug 2026 After numerous meetings with other prospect companies, i was delighted to have found Antek. Speaking to Andy has been a pleasure, he explains things i don't understand in a way where i grasp how it works and what needs to be done to progess forward. He has also provided support, knowledge and hard work to help get my business up and running. 100% recommend J. H. · Jul 2026 
+ The person scoping it
+ Andy Norman builds it, your firm signs off the words 
+ Over 30 years in field service and managed print ended with Andy as a service manager. Now he runs Antek Automation from Andover and works as a Certified Retell AI Partner.
+ Andy is not a lawyer and offers no view on your regulatory duties. If a task would be done badly by a voice agent, he will say so and leave it out of the scope.
+ Andy's background 
+ Firms this suits
+ High-street firms
+ Small legal practices
+ Firms losing evening calls
+ Firms short of cover at peak times
+ Teams chasing ID and signed forms
+ Questions from partners
+ What a firm will want settled before launch 
+ Does it give legal advice?
+ No, it never does. When a caller asks what they should do, it takes their details and tells them someone from the firm will respond.
+ Who is responsible for what it says?
+ The firm remains responsible. The script is agreed with you before launch, later changes go through you as well, and checking it against your professional duties is a job for the firm.
+ How is confidentiality handled?
+ An agent is given only what the scoped task requires, and summaries go only to the people you name. Where data is held, how long it is kept and which software it connects to are all confirmed and written into your scope before anything goes live.
+ Can it run conflict checks?
+ No. It collects the details and your team runs that check.
+ Is it different from a legal answering service?
+ A legal answering service or law firm answering service generally takes a message. An agent can be scoped to act on a schedule too, such as confirming appointments or chasing documents. For front-desk cover on its own, see our sister site on answering calls for solicitors .
+ Can it deal with new enquiries?
+ Some firms call this AI legal intake. An agent can be scoped to note the basic facts and pass them on, but it never decides whether the firm takes the matter.
+ Is a caller told they are speaking to software?
+ Yes. The agent tells them early in the call, using wording the firm has approved.
+ Cover the calls that are reaching voicemail.
+ Scope it with Andy 0333 038 9960 
+ Who runs this site
+ This site is run by Antek Automation, a sole trader led by Andy Norman in Andover, Hampshire, for high-street firms and small practices across the UK. AI voice agents are scoped task by task, and any firm comparing options can read more on Antek's voice assistant service .
+
+## https://aivoiceagentsforlawfirms.co.uk/about-andy
+
+Who builds your agent
+ Andy Norman, scoping voice agents for small firms 
+ Before Antek Automation, Andy worked as a field engineer and then a service manager, spending more than three decades in field service and managed print.
+ That background is operational, not legal. He looks at where a call goes unanswered or a chaser goes unmade, and at whether a voice agent is a sensible fix.
+ What he will not do
+ He will not tell you what your obligations are, and he will not write a script the firm has not approved. Responsibility for the words stays with the firm.
+ Works from Chantry Way, Andover
+ Certified Retell AI Partner
+ ICO registration ZC133436
+ Further reading
+ The general case for these tools is set out on the main AI voice assistants page at Antek Automation.
+ Scope it with Andy
